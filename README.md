@@ -1,5 +1,8 @@
 
-![ttsched Banner](path/to/kupido2/kipo.png)
+<p align="center">
+  <img src="https://githubusercontent.com" alt="kipo" width="500">
+</p>
+
 
 # Supported sites
 
