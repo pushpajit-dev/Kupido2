@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://githubusercontent.com" alt="kipo" width="500">
+  <img src="[https://githubusercontent.com](https://raw.githubusercontent.com/pushpajit-dev/Kupido2/refs/heads/main/kipo.png)" alt="kipo" width="500">
 </p>
 
 
