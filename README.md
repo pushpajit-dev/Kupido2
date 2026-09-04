@@ -1,5 +1,5 @@
 
-![ttsched Banner](path/to/your/kipo.png)
+![ttsched Banner](path/to/kupido2/kipo.png)
 
 # Supported sites
 
